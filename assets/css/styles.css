@@ -88,7 +88,7 @@ td
 
 
 
-a:link { color: #d33682; font-weight: bold; }
+a:link { color: #white; font-weight: bold; }
 a:visited { color: white;  font-weight: bold;}
 a:focus { color: #d33682; font-weight: bold; }
 a:hover { color: #d33682; font-weight: bold;}
